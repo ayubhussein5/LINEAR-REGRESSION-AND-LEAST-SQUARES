@@ -2,7 +2,7 @@
 
 **BIT 4131 Statistical Computing and Reporting | Group work**
 
-Our question was simple: *what actually drives house rent in Nairobi?* Everyone in the group has paid rent or helped a sibling look for a house, so we wanted to put numbers on the things people argue about. How much does an extra square metre cost? Does an extra bedroom matter once you know the size? And how much cheaper does a place get as you move away from town?
+The question: *what actually drives house rent in Nairobi?* Everyone in the group has paid rent or helped a sibling look for a house, so we wanted to put numbers on the things people argue about. How much does an extra square metre cost? Does an extra bedroom matter once you know the size? And how much cheaper does a place get as you move away from town?
 
 We answer that with simple and multiple linear regression in both Python and R.
 
@@ -78,10 +78,4 @@ Rent = 10,508 + 316.8(Area) + 2,322(Bedrooms) − 781.1(Distance)
 
 The full write-up, with theory, the formulas and the hand-worked example, is in the PDF report we submitted.
 
-## Group members
 
-| Name | Reg. No. | Programme | Role |
-|---|---|---|---|
-|  |  | BSc Statistics |  |
-|  |  | BSc Computer Science |  |
-|  |  |  |  |
