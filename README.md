@@ -78,19 +78,22 @@ Rent = 10,508 + 316.8(Area) + 2,322(Bedrooms) − 781.1(Distance)
 
 The full write-up, with theory, the formulas and the hand-worked example, is in the PDF report we submitted.
 
-GROUP MEMBERS
 
-Members name Regno 
-1.Ayub Hussein -BSCCS/2024/56898
-2. Samuel Njuguna - BSCCS/2024/54633
-3. Mike Momanyi - BSCCS/2024/57241
-4. Rickson Mwangi - BSCCS/2024/54222
-5. Annie Wangeci -BSCCS/2024/55251 
-6. Linet Kamathi- BSCCS/2024/50325
-7. Steed Mbugua -BSCCS/2024/54025
-8. Joshua Muli-BSCCS/2024/73427
-9. Collins matagi- BSCCS/2024/50482 
-10. Kikuyu Brian- BSCCS/2024/74678
-11. Philip Philemon - BSS/2022/53061
-12. James Laat - BSS/2024/54875
+## Group Members
 
+
+
+| No. | Name | Registration Number |
+|:---:|---|---|
+| 1 | Ayub Hussein | BSCCS/2024/56898 |
+| 2 | Samuel Njuguna | BSCCS/2024/54633 |
+| 3 | Mike Momanyi | BSCCS/2024/57241 |
+| 4 | Rickson Mwangi | BSCCS/2024/54222 |
+| 5 | Annie Wangeci | BSCCS/2024/55251 |
+| 6 | Linet Kamathi | BSCCS/2024/50325 |
+| 7 | Steed Mbugua | BSCCS/2024/54025 |
+| 8 | Joshua Muli | BSCCS/2024/73427 |
+| 9 | Collins Matagi | BSCCS/2024/50482 |
+| 10 | Kikuyu Brian | BSCCS/2024/74678 |
+| 11 | Philip Philemon | BSS/2022/53061 |
+| 12 | James Laat | BSS/2024/54875 |
