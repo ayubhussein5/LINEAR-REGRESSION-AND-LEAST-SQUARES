@@ -98,3 +98,9 @@ The full write-up, with theory, the formulas and the hand-worked example, is in 
 | 11 | Philip Philemon | BSS/2022/53061 |
 | 12 | James Laat | BSS/2024/54875 |
 | 13 | Mohamed Ali Hassan | Bsccs/2024/45890 |
+
+## Setup
+
+Install dependencies:
+
+    pip install -r requirements.txt
