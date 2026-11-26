@@ -113,4 +113,5 @@ Install dependencies:
 - **Prediction range.** Area in the data runs from 30 to 150 sqm. Predictions outside that range are extrapolation and should not be trusted.
 - **Adding variables helped.** Adjusted R² rose from 0.841 to 0.945, and the residual standard error fell from KES 5,941 to KES 3,487. So bedrooms and distance add real explanatory power beyond area.
 - **Multicollinearity is not a concern.** All VIFs are below 3.5, so area and bedrooms can be interpreted separately.
+
     
