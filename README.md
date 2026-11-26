@@ -104,3 +104,13 @@ The full write-up, with theory, the formulas and the hand-worked example, is in 
 Install dependencies:
 
     pip install -r requirements.txt
+
+    ## Notes on interpreting the results
+
+- **Simulated data.** The 120 houses were generated using price ranges from listing sites, so the coefficients show the relationships we built in, not the real Nairobi market.
+- **"Holding the others fixed."** Each coefficient is the effect of one variable with the other two kept constant. For example, a bedroom adds about KES 2,322 on top of what the extra floor area already costs.
+- **The intercept (KES 10,508)** is the predicted rent at zero area, zero bedrooms and zero distance. It is a mathematical baseline, not a real house.
+- **Prediction range.** Area in the data runs from 30 to 150 sqm. Predictions outside that range are extrapolation and should not be trusted.
+- **Adding variables helped.** Adjusted R² rose from 0.841 to 0.945, and the residual standard error fell from KES 5,941 to KES 3,487. So bedrooms and distance add real explanatory power beyond area.
+- **Multicollinearity is not a concern.** All VIFs are below 3.5, so area and bedrooms can be interpreted separately.
+    
